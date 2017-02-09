@@ -3,8 +3,8 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: DevOps-Demo-hyjyang
-  host: DevOps-Demo-hyjyang
+#  name: DevOps-Demo-hyjyang
+#  host: DevOps-Demo-hyjyang
   disk_quota: 1024M
   services:
   - DevOps-Demo-hyjyang-cloudantNoSQLDB
